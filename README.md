@@ -1,2 +1,2 @@
 # timetable_generator
-DSA (project)
+DSA (project)/ java
