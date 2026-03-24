@@ -17,3 +17,4 @@ b). Individual  are the possible solution of a given problem . </p>
 <h1>author - lakshya</h1>
 </footer>
 1
+2
