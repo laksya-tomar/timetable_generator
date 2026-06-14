@@ -47,3 +47,4 @@ b). Individual  are the possible solution of a given problem . </p>
 10
 11
 13
+14
