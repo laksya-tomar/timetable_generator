@@ -51,3 +51,4 @@ b). Individual  are the possible solution of a given problem . </p>
 15
 16
 18
+20
