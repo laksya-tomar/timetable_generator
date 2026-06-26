@@ -56,3 +56,5 @@ b). Individual  are the possible solution of a given problem . </p>
 22
 24
 25
+26
+
