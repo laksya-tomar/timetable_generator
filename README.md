@@ -67,6 +67,7 @@ b). Individual  are the possible solution of a given problem . </p>
 3
 4
 5
+6
 
 
 
