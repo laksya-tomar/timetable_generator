@@ -71,5 +71,5 @@ b). Individual  are the possible solution of a given problem . </p>
 9
 11
 13
-
+19
 
