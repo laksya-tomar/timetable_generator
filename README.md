@@ -73,4 +73,5 @@ b). Individual  are the possible solution of a given problem . </p>
 13
 19
 26
+27
 
