@@ -74,4 +74,4 @@ b). Individual  are the possible solution of a given problem . </p>
 19
 26
 27
-
+30
