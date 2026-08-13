@@ -81,7 +81,7 @@ b). Individual  are the possible solution of a given problem . </p>
 5
 8
 9
-
+13
 
 
 
